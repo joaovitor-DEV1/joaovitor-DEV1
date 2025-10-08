@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou [João Vitor Ulisses Bacurau]
 
-Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em [escreva seu interesse aqui: ex. Front-End, Back-End, Mobile, Banco de Dados, UX/UI, etc.].
+Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Areas de Cyber segurança e IA.
 
 ---
 
@@ -14,17 +14,9 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 ### Back-End
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Mobile
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 
 ---
 
@@ -34,7 +26,6 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 |-----------------------|-------------------------------------|--------------------------|
 | **Nome do Projeto 1** | [🔗 Ver online](https://seu-link.com) | HTML / CSS / JS          |
 | **Nome do Projeto 2** | [🔗 Ver online](https://seu-link.com) | Node.js / Express / MySQL|
-| **Nome do Projeto 3** | [🔗 Ver online](https://seu-link.com) | Flutter / Dart           |
 
 > 💡 Dica: Quando você publicar um projeto no GitHub Pages, coloque o link aqui!
 
@@ -42,12 +33,10 @@ Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitH
 
 ## 💡 Sobre Mim
 
-- 🎓 Atualmente estudo no **[Nome da sua escola]**
-- 💻 Estou aprendendo **[tecnologias que está aprendendo]**
-- 🎯 Meu objetivo é **[coloque seu objetivo, exemplo: ser desenvolvedor Full Stack]**
-- 📚 Gosto de aprender sobre **[áreas de interesse]**
-- ✝ [Se quiser, coloque uma frase ou versículo que te inspire]
-
+- 🎓 Atualmente estudo no ** Senai guarulhos  **
+- 💻 Estou aprendendo ** javascript,python,html5,c++ e cyber segurança **
+- 🎯 Meu objetivo é ** eu gostaria de desenvolver muito minhas habilidades em cyber segurança e conseguir um bom cargo na área**
+- 📚 Gosto de aprender sobre ** gosto de estudar python e cyber segurança por serem areas que gosto **
 ---
 
 ## 📫 Como me encontrar
