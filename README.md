@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou João Vitor Ulisses Bacura.
+# 👋 Olá! Eu sou João Vitor Ulisses Bacurau.
 
 Sou estudante de **Desenvolvimento de Sistemas** e estou aprendendo sobre **GitHub**, **programação** e **criação de projetos web e mobile**. Tenho interesse especial em Areas de Cyber segurança e IA.
 
